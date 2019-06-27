@@ -1,4 +1,4 @@
-# KCSNB
+# KCSNB() Application
 
 This appliation predicts any variable in any categorical dataset for given values of predictor variables.
 If a dataset contains 4 variables, then any variable can be predicted based on the values of the other three variables given by the user. 
