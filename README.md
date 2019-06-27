@@ -7,7 +7,7 @@ A handsontable is provided to enter the predictor values and also accuracy of th
    
 Run the following R commands in your R console to run the apllication.
    
- # install.packages("devtools")  
+ ## install.packages("devtools")  
  ##  library("devtools")
  ##  devtools::install_github("Chaithanya07/KCSNBShiny")
  ##  library("KCSNBShiny")
