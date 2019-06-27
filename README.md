@@ -7,8 +7,8 @@ A handsontable is provided to enter the predictor values and also accuracy of th
    
 Follow the instruction sbelow to use the application in RStudio in your own computer
    
-install.packages("devtools")
-library("devtools")
-devtools::install_github("Chaithanya07/KCSNBShiny")
-library("KCSNBShiny")
-KCSNBSiny()
+   install.packages("devtools")  \n
+   library("devtools")
+   devtools::install_github("Chaithanya07/KCSNBShiny")
+   library("KCSNBShiny")
+   KCSNBSiny()
